@@ -6,7 +6,7 @@ Redirects phone links like `callto:`, `tel:`, or `sms:` to a user-provided shell
 How to install on a Mac
 =======================
 
-Download the latest release of this project and move the `clicktoshell.app` file in `/Applications` (or somewhere else).
+Download the [latest release](https://github.com/pricingassistant/ClickToShell/releases) of this project and move the `clicktoshell.app` file in `/Applications` (or somewhere else).
 
 You should also install [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) to make it easy to register the right protocol handlers.
 
