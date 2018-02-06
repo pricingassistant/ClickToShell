@@ -14,6 +14,8 @@ In RCDefaultApp, go to the "URL" tab, select `callto` for instance, then select 
 
 Then, create a file `clicktoshell-callto.sh` in your user directory (for instance, `/Users/Bob/clicktoshell-callto.sh`).
 
+Don't forget to run `chmod +x clicktoshell-callto.sh` and bypass the MacOS security features!
+
 This shell script will get executed each time the user clicks a `callto:` link, with the phone (formatted in international format) as first argument.
 
 An example of script using the [Keyyo VoIP API](https://api.keyyo.com/developers/):
